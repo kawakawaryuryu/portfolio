@@ -5,12 +5,12 @@
 |:-:|:-:|
 | Java | ★★★☆☆ |
 | Spring| ★★★☆☆ |
-| JavaScript ||
-| TypeScript ||
-| Angular ||
-| Vue.js ||
-| Pivotal Cloud Foundry||
-| Docker ||
+| JavaScript | ★★☆☆☆ |
+| TypeScript | ★★☆☆☆ |
+| Angular | ★★☆☆☆ |
+| Vue.js | ★☆☆☆☆ |
+| Pivotal Cloud Foundry| ★★★☆☆ |
+| Docker | ★★☆☆☆ |
 
 
 # Blog

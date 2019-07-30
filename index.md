@@ -1,16 +1,16 @@
 # Profile
 
 # Skill
-|Skill|Level|
+| Skill | Level |
 |:-:|:-:|
-|Java|★★★☆☆|
-|Spring|★★★☆☆|
-|JavaScript||
-|TypeScript||
-|Angular||
-|Vue.js||
-|Pivotal Cloud Foundry||
-|Docker||
+| Java | ★★★☆☆ |
+| Spring| ★★★☆☆ |
+| JavaScript ||
+| TypeScript ||
+| Angular ||
+| Vue.js ||
+| Pivotal Cloud Foundry||
+| Docker ||
 
 
 # Blog

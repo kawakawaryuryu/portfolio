@@ -15,9 +15,12 @@
 |Vue.js|★☆☆☆☆|
 |Pivotal Cloud Foundry|★★★☆☆|
 |Docker|★★☆☆☆|
+|スクラム|★★★☆☆|
 
-# Performance
-- 2017年〜 社内ワークフローシステムの開発
+# Experience
+- 2017年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。
+- 2018年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。スクラムマスターを担当。
+- 2019年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。POを担当。
 
 # Blog
 - [kawakawaryuryu - Qiita](https://qiita.com/kawakawaryuryu)

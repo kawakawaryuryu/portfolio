@@ -2,16 +2,16 @@
 
 # Skill
 
-|Skill|Level|
-|:-:|:-:|
-|Java|★★★☆☆|
-|Spring|★★★☆☆|
-|JavaScript|★★☆☆☆|
-|TypeScript|★★☆☆☆|
-|Angular|★★☆☆☆|
-|Vue.js|★☆☆☆☆|
-|Pivotal Cloud Foundry|★★★☆☆|
-|Docker|★★☆☆☆|
+|Skill|Level|Experience|
+|:-:|:-:|:-:|
+|Java|★★★☆☆|5 years|
+|Spring|★★★☆☆|2 years|
+|JavaScript|★★☆☆☆|3 years|
+|TypeScript|★★☆☆☆|2 years|
+|Angular|★★☆☆☆|2 years|
+|Vue.js|★☆☆☆☆|2 months|
+|Pivotal Cloud Foundry|★★★☆☆|3 months|
+|Docker|★★☆☆☆|6 months|
 
 
 # Blog

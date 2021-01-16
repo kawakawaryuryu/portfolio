@@ -7,14 +7,19 @@
 
 |Skill|Level|
 |:-:|:-:|
-|Java|★★★☆☆|
-|Spring|★★★☆☆|
-|JavaScript|★★☆☆☆|
-|TypeScript|★★☆☆☆|
-|Angular|★★☆☆☆|
+|Java|★★★★☆|
+|Kotlin|★★☆☆☆|
+|Spring Boot|★★★★☆|
+|JavaScript|★★★☆☆|
+|TypeScript|★★★☆☆|
+|Angular|★★★☆☆|
 |Vue.js|★☆☆☆☆|
 |Pivotal Cloud Foundry|★★★☆☆|
 |Docker|★★☆☆☆|
+|Kubernetes|★★☆☆☆|
+|OpenID Connect|★★☆☆☆|
+|API設計|★★★★☆|
+|DB設計|★★★☆☆|
 |スクラム|★★★☆☆|
 
 # Certification
@@ -27,9 +32,11 @@
 - 2017年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。
 - 2018年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。スクラムマスターを担当。
 - 2019年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。POを担当。
+- 2020年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）、社内会計システム（フロントエンド・バックエンド）の開発。
 
 # Blog
 - [kawakawaryuryu - Qiita](https://qiita.com/kawakawaryuryu)
+- [kawakawaryuryu - Zenn](https://zenn.dev/kawakawaryuryu)
 
 # Github
 - [kawakawaryuryu - Github](https://github.com/kawakawaryuryu)

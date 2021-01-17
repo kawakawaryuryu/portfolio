@@ -1,7 +1,7 @@
 # Profile
 - 名前: kawakawaryuryu
+- 仕事: Webエンジニア（フロントエンド・バックエンド開発、設計）
 - 趣味: テレビ鑑賞（バラエティ、ドラマ、アニメなど全般）、カラオケ
-- 仕事: Webエンジニア（フロントエンド・バックエンド開発）
 
 # Skill
 
@@ -32,11 +32,15 @@
 - 2017年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。
 - 2018年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。スクラムマスターを担当。
 - 2019年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。POを担当。
-- 2020年〜 社内ワークフローシステム（フロントエンド・バックエンド全般）、社内会計システム（フロントエンド・バックエンド）の開発。
+- 2020年〜社内会計システム（フロントエンド・バックエンド）、 社内ワークフローシステム（フロントエンド・バックエンド全般）の開発。
 
 # Blog
 - [kawakawaryuryu - Qiita](https://qiita.com/kawakawaryuryu)
 - [kawakawaryuryu - Zenn](https://zenn.dev/kawakawaryuryu)
+- [kawakawaryuryuのブログ - Hatena Blog](https://kawakawaryuryu.hatenablog.com/)
 
 # Github
 - [kawakawaryuryu - Github](https://github.com/kawakawaryuryu)
+
+# Other Links
+- [kawakawaryuryu - Twitter](https://twitter.com/kawakawaryuryu)

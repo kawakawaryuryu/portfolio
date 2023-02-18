@@ -23,6 +23,8 @@
 |ansible|★★★☆☆|
 |chef|★★☆☆☆|
 |Redis|★★☆☆☆|
+|MySQL|★★☆☆☆|
+|Oracle Database|★★★☆☆|
 |OpenID Connect|★★☆☆☆|
 |API設計|★★★★☆|
 |DB設計|★★★☆☆|
